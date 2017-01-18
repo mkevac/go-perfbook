@@ -127,6 +127,7 @@ tools:
     http://www.brendangregg.com/perf.html
     https://github.com/davecheney/gcvis
     https://github.com/pavel-paulau/gcterm
+    https://github.com/mkevac/debugcharts
 
 papers:
     https://www.akkadia.org/drepper/cpumemory.pdf
